@@ -31,7 +31,7 @@ profile/
   index.js
   Profile.js
   ProfileHeader.js
-  ProfileHeader.css
+  ProfileHeader.scss
   ProfileAPI.js
 ```
 
